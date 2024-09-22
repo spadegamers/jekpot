@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spadegamers.github.io/jekpot/sitemap.xml
